@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: af9037c2fe3929a40ab5c9c8cfc3bcfc
+guid: ae9058d5d7cfa984785cbdf66f7b643e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4045335537425914116
-    second: BoneCursor_0
-  - first:
-      213: -9102187129650637208
-    second: BoneCursor_1
-  - first:
-      213: -1387217028046342725
-    second: BoneCursor_2
-  - first:
-      213: -2679185999096930452
-    second: BoneCursor_3
+      213: 2036342951906105290
+    second: BoneCursor23_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -81,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
     textureCompression: 1
@@ -135,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BoneCursor_0
+      name: BoneCursor23_0
       rect:
         serializedVersion: 2
-        x: 77
-        y: 407
-        width: 390
-        height: 224
+        x: 59
+        y: 55
+        width: 906
+        height: 920
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,74 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf6e67603c41cd7c0800000000000000
-      internalID: -4045335537425914116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BoneCursor_1
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 563
-        width: 212
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8669a02f7098ea180800000000000000
-      internalID: -9102187129650637208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BoneCursor_2
-      rect:
-        serializedVersion: 2
-        x: 566
-        y: 407
-        width: 389
-        height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb5bce8767d9fbce0800000000000000
-      internalID: -1387217028046342725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BoneCursor_3
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 65
-        width: 212
-        height: 401
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6f90ac578e91dad0800000000000000
-      internalID: -2679185999096930452
+      spriteID: ac7db31302b824c10800000000000000
+      internalID: 2036342951906105290
       vertices: []
       indices: 
       edges: []
