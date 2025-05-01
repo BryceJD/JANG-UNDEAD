@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class AnimationManager : MonoBehaviour
 {
-    private Animator playerAnimator;
+    private Animator mAnimator;
 
     void Start()
     {
-        playerAnimator = GetComponent<Animator>();
+        mAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -15,19 +15,26 @@ public class AnimationManager : MonoBehaviour
             //Triggers StandUp Movement
             if(Input.GetButtonDown("Stand Up Action"))
             {
-                playerAnimator.SetTrigger("TriggerStandUp");
+                mAnimator.SetTrigger("TriggerStandUp");
             }
 
             //Triggers Crouch Movement
             if(Input.GetButtonDown("Crouch Action"))
-        {
-            playerAnimator.SetTrigger("TriggerCrouch");
-        }
+            {   
+                mAnimator.SetTrigger("TriggerCrouch");
+            }
 
-        if (Input.GetButtonDown("ShootMouse"))
-        {
-            playerAnimator.SetTrigger("isShooting");
-        }
+            //Triggers Shoot Animation
+            if(Input.GetButtonDown("ShootMouse"))
+            {
+                mAnimator.SetBool("isShooting", true);
+            }
+
+            //When we release the shoot button, it restes back to standing idle
+            if(Input.GetButtonUp("ShootMouse"))
+            {
+                mAnimator.SetBool("isShooting", false);
+            }
 
         }
 
