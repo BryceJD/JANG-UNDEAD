@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: af9037c2fe3929a40ab5c9c8cfc3bcfc
+guid: 9bec34581264f1446834adb40edad2d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4045335537425914116
-    second: BoneCursor_0
-  - first:
-      213: -9102187129650637208
-    second: BoneCursor_1
-  - first:
-      213: -1387217028046342725
-    second: BoneCursor_2
-  - first:
-      213: -2679185999096930452
-    second: BoneCursor_3
+      213: 2208703988740019828
+    second: Bullet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -33,7 +24,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +57,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 7
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -81,9 +72,9 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -135,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BoneCursor_0
+      name: Bullet_0
       rect:
         serializedVersion: 2
-        x: 77
-        y: 407
-        width: 390
-        height: 224
+        x: 72
+        y: 12
+        width: 148
+        height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,74 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf6e67603c41cd7c0800000000000000
-      internalID: -4045335537425914116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BoneCursor_1
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 563
-        width: 212
-        height: 400
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8669a02f7098ea180800000000000000
-      internalID: -9102187129650637208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BoneCursor_2
-      rect:
-        serializedVersion: 2
-        x: 566
-        y: 407
-        width: 389
-        height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb5bce8767d9fbce0800000000000000
-      internalID: -1387217028046342725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BoneCursor_3
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 65
-        width: 212
-        height: 401
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6f90ac578e91dad0800000000000000
-      internalID: -2679185999096930452
+      spriteID: 47656d65394e6ae10800000000000000
+      internalID: 2208703988740019828
       vertices: []
       indices: 
       edges: []
