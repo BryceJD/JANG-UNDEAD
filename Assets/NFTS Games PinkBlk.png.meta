@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 31df364e70e8e094382d4474c9bef36a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7929583891904201944
+    second: NFTS Games PinkBlk_0
+  - first:
+      213: 2808128684864876434
+    second: NFTS Games PinkBlk_1
+  - first:
+      213: 7431945596990593617
+    second: NFTS Games PinkBlk_2
+  - first:
+      213: -33905926836829917
+    second: NFTS Games PinkBlk_3
+  - first:
+      213: -6958187296965996625
+    second: NFTS Games PinkBlk_4
+  - first:
+      213: 8029687570021365640
+    second: NFTS Games PinkBlk_5
+  - first:
+      213: 2371978408980226327
+    second: NFTS Games PinkBlk_6
+  - first:
+      213: -1149794853323814277
+    second: NFTS Games PinkBlk_7
+  - first:
+      213: -6962492006994598825
+    second: NFTS Games PinkBlk_8
+  - first:
+      213: 2954441837644802091
+    second: NFTS Games PinkBlk_9
+  - first:
+      213: 7352526540562794713
+    second: NFTS Games PinkBlk_10
+  - first:
+      213: 5238191687684047389
+    second: NFTS Games PinkBlk_11
+  - first:
+      213: 4014915248203869689
+    second: NFTS Games PinkBlk_12
+  - first:
+      213: -7734262610670558954
+    second: NFTS Games PinkBlk_13
+  - first:
+      213: -2080601369305484409
+    second: NFTS Games PinkBlk_14
+  - first:
+      213: -2393205674249569332
+    second: NFTS Games PinkBlk_15
+  - first:
+      213: -3463958887570815134
+    second: NFTS Games PinkBlk_16
+  - first:
+      213: 712199668946255830
+    second: NFTS Games PinkBlk_17
+  - first:
+      213: -1890763372350084609
+    second: NFTS Games PinkBlk_18
+  - first:
+      213: -138514667187174538
+    second: NFTS Games PinkBlk_19
+  - first:
+      213: 4244359973341086970
+    second: NFTS Games PinkBlk_20
+  - first:
+      213: -1204430539874739446
+    second: NFTS Games PinkBlk_21
+  - first:
+      213: 2292110436447011350
+    second: NFTS Games PinkBlk_22
+  - first:
+      213: 7898341370913944698
+    second: NFTS Games PinkBlk_23
+  - first:
+      213: -6049803064866944873
+    second: NFTS Games PinkBlk_24
+  - first:
+      213: 6456135701325751015
+    second: NFTS Games PinkBlk_25
+  - first:
+      213: 3529038584733712689
+    second: NFTS Games PinkBlk_26
+  - first:
+      213: -2562200977085963662
+    second: NFTS Games PinkBlk_27
+  - first:
+      213: 9137476684884874725
+    second: NFTS Games PinkBlk_28
+  - first:
+      213: 6676247999710678092
+    second: NFTS Games PinkBlk_29
+  - first:
+      213: 5511309027614670881
+    second: NFTS Games PinkBlk_30
+  - first:
+      213: 525854609650536768
+    second: NFTS Games PinkBlk_31
+  - first:
+      213: 442071398413428344
+    second: NFTS Games PinkBlk_32
+  - first:
+      213: 2186594007703584454
+    second: NFTS Games PinkBlk_33
+  - first:
+      213: 6292793591894686645
+    second: NFTS Games PinkBlk_34
+  - first:
+      213: 3188409456194506150
+    second: NFTS Games PinkBlk_35
+  - first:
+      213: 2248638832804445991
+    second: NFTS Games PinkBlk_36
+  - first:
+      213: -2081237218494903991
+    second: NFTS Games PinkBlk_37
+  - first:
+      213: -7918223137336734216
+    second: NFTS Games PinkBlk_38
+  - first:
+      213: 3916586769522711969
+    second: NFTS Games PinkBlk_39
+  - first:
+      213: -8150122389023396692
+    second: NFTS Games PinkBlk_40
+  - first:
+      213: 3231174457949155303
+    second: NFTS Games PinkBlk_41
+  - first:
+      213: 5469431453359552080
+    second: NFTS Games PinkBlk_42
+  - first:
+      213: 8685036878405124688
+    second: NFTS Games PinkBlk_43
+  - first:
+      213: 7905771156273982416
+    second: NFTS Games PinkBlk_44
+  - first:
+      213: -6565050048517876121
+    second: NFTS Games PinkBlk_45
+  - first:
+      213: -6572198155096238249
+    second: NFTS Games PinkBlk_46
+  - first:
+      213: -2580212069679932543
+    second: NFTS Games PinkBlk_47
+  - first:
+      213: -3225924218795533339
+    second: NFTS Games PinkBlk_48
+  - first:
+      213: -4710972694235940748
+    second: NFTS Games PinkBlk_49
+  - first:
+      213: -6730767831940043130
+    second: NFTS Games PinkBlk_50
+  - first:
+      213: -3647985252400375595
+    second: NFTS Games PinkBlk_51
+  - first:
+      213: 2515755839732716538
+    second: NFTS Games PinkBlk_52
+  - first:
+      213: -536462389515780196
+    second: NFTS Games PinkBlk_53
+  - first:
+      213: -3126843478369033873
+    second: NFTS Games PinkBlk_54
+  - first:
+      213: 1730660059654821842
+    second: NFTS Games PinkBlk_55
+  - first:
+      213: -8465346941227979844
+    second: NFTS Games PinkBlk_56
+  - first:
+      213: -3562514031058560220
+    second: NFTS Games PinkBlk_57
+  - first:
+      213: 4901639531466993854
+    second: NFTS Games PinkBlk_58
+  - first:
+      213: -3221310322544935520
+    second: NFTS Games PinkBlk_59
+  - first:
+      213: -3734001863185047608
+    second: NFTS Games PinkBlk_60
+  - first:
+      213: 643017471787200623
+    second: NFTS Games PinkBlk_61
+  - first:
+      213: -3939743843772617621
+    second: NFTS Games PinkBlk_62
+  - first:
+      213: -1354259677237735195
+    second: NFTS Games PinkBlk_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1126
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf36a867574f190800000000000000
+      internalID: -7929583891904201944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1126
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa4f8292a78f620800000000000000
+      internalID: 2808128684864876434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1126
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a17a2f423932760800000000000000
+      internalID: 7431945596990593617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1126
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214c1b3dba878ff0800000000000000
+      internalID: -33905926836829917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1123
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc4bbf48d8f6f90800000000000000
+      internalID: -6958187296965996625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1126
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8873e744d4e2f6f60800000000000000
+      internalID: 8029687570021365640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1126
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a922bbc5fae020800000000000000
+      internalID: 2371978408980226327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_7
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1126
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7acf0b3cab1b00f0800000000000000
+      internalID: -1149794853323814277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1126
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75427939862406f90800000000000000
+      internalID: -6962492006994598825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1126
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ee52b239400920800000000000000
+      internalID: 2954441837644802091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_10
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1126
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d880ebeeeb690660800000000000000
+      internalID: 7352526540562794713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_11
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1126
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12cfc9369bc1b840800000000000000
+      internalID: 5238191687684047389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_12
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1123
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdad747528d7b730800000000000000
+      internalID: 4014915248203869689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_13
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1126
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611656b22216aa490800000000000000
+      internalID: -7734262610670558954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_14
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1126
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783fa5ff3183023e0800000000000000
+      internalID: -2080601369305484409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_15
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1126
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbb7e77e10a9ced0800000000000000
+      internalID: -2393205674249569332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_16
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1126
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c8cd9ebb8defc0800000000000000
+      internalID: -3463958887570815134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_17
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1125
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df31b453dd32e900800000000000000
+      internalID: 712199668946255830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_18
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1126
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9e0c40bb8a2c5e0800000000000000
+      internalID: -1890763372350084609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_19
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1124
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6738022e4a5e31ef0800000000000000
+      internalID: -138514667187174538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_20
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1126
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c1ed78eef6ea30800000000000000
+      internalID: 4244359973341086970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_21
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1123
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b522a2ec0094fe0800000000000000
+      internalID: -1204430539874739446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_22
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1126
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c36e3c463fcf10800000000000000
+      internalID: 2292110436447011350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_23
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1124
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f81031ab8c9d60800000000000000
+      internalID: 7898341370913944698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_24
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1123
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798498d6a28ca0ca0800000000000000
+      internalID: -6049803064866944873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_25
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1126
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e22d3bd63dc89950800000000000000
+      internalID: 6456135701325751015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_26
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1123
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13143b925e9a9f030800000000000000
+      internalID: 3529038584733712689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_27
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1123
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272e1a559cb317cd0800000000000000
+      internalID: -2562200977085963662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_28
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 1126
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e51af9e1a6dece70800000000000000
+      internalID: 9137476684884874725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_29
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 986
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cca27fe2cc6ac50800000000000000
+      internalID: 6676247999710678092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_30
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1040
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12040664c5a1c7c40800000000000000
+      internalID: 5511309027614670881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_31
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 986
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d8bb3bf53c4700800000000000000
+      internalID: 525854609650536768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_32
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1040
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876eacb389d822600800000000000000
+      internalID: 442071398413428344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_33
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 986
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce7b293aa7585e10800000000000000
+      internalID: 2186594007703584454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 286
+        width: 594
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbbcb16e6e745750800000000000000
+      internalID: 6292793591894686645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_35
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 286
+        width: 595
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad48fae1818f3c20800000000000000
+      internalID: 3188409456194506150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_36
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 286
+        width: 594
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3579ca15c43f10800000000000000
+      internalID: 2248638832804445991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_37
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 286
+        width: 487
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9490a42d6c5fd13e0800000000000000
+      internalID: -2081237218494903991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_38
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 284
+        width: 595
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdc3c65202dc1290800000000000000
+      internalID: -7918223137336734216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_39
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 822
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad55697ae28a5630800000000000000
+      internalID: 3916586769522711969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac6d4e4ed2f4ee80800000000000000
+      internalID: -8150122389023396692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_41
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 187
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efef5dcc0077dc20800000000000000
+      internalID: 3231174457949155303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_42
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 187
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05638d4bde257eb40800000000000000
+      internalID: 5469431453359552080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_43
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 187
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052418e8603778870800000000000000
+      internalID: 8685036878405124688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db6d35eaf0f6bd60800000000000000
+      internalID: 7905771156273982416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7665e6593c144e4a0800000000000000
+      internalID: -6565050048517876121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d204599cdac4a0800000000000000
+      internalID: -6572198155096238249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 42
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b5d8d0bce313cd0800000000000000
+      internalID: -2580212069679932543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_48
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 139
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebdc52c3073b33d0800000000000000
+      internalID: -3225924218795533339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478708d5b434f9eb0800000000000000
+      internalID: -4710972694235940748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_50
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 134
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e669761528792a0800000000000000
+      internalID: -6730767831940043130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_51
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8dfc4adb0cf5dc0800000000000000
+      internalID: -3647985252400375595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_52
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af312e07b92c9e220800000000000000
+      internalID: 2515755839732716538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_53
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1
+        width: 151
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ffd8d8c4a1e88f0800000000000000
+      internalID: -536462389515780196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_54
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6121935c683b94d0800000000000000
+      internalID: -3126843478369033873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_55
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d79ea2a72a840810800000000000000
+      internalID: 1730660059654821842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_56
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 0
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbaaabeecb058a80800000000000000
+      internalID: -8465346941227979844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_57
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2
+        width: 121
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bd86f1d586f8ec0800000000000000
+      internalID: -3562514031058560220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_58
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03a121f2f160440800000000000000
+      internalID: 4901639531466993854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_59
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 2
+        width: 115
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf861345b9b43d0800000000000000
+      internalID: -3221310322544935520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_60
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf553ac6192e2cc0800000000000000
+      internalID: -3734001863185047608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_61
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 2
+        width: 125
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60fe36dbf47ce800800000000000000
+      internalID: 643017471787200623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_62
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ca6e509d73359c0800000000000000
+      internalID: -3939743843772617621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NFTS Games PinkBlk_63
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e01c9caff3b43de0800000000000000
+      internalID: -1354259677237735195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NFTS Games PinkBlk_0: -7929583891904201944
+      NFTS Games PinkBlk_1: 2808128684864876434
+      NFTS Games PinkBlk_10: 7352526540562794713
+      NFTS Games PinkBlk_11: 5238191687684047389
+      NFTS Games PinkBlk_12: 4014915248203869689
+      NFTS Games PinkBlk_13: -7734262610670558954
+      NFTS Games PinkBlk_14: -2080601369305484409
+      NFTS Games PinkBlk_15: -2393205674249569332
+      NFTS Games PinkBlk_16: -3463958887570815134
+      NFTS Games PinkBlk_17: 712199668946255830
+      NFTS Games PinkBlk_18: -1890763372350084609
+      NFTS Games PinkBlk_19: -138514667187174538
+      NFTS Games PinkBlk_2: 7431945596990593617
+      NFTS Games PinkBlk_20: 4244359973341086970
+      NFTS Games PinkBlk_21: -1204430539874739446
+      NFTS Games PinkBlk_22: 2292110436447011350
+      NFTS Games PinkBlk_23: 7898341370913944698
+      NFTS Games PinkBlk_24: -6049803064866944873
+      NFTS Games PinkBlk_25: 6456135701325751015
+      NFTS Games PinkBlk_26: 3529038584733712689
+      NFTS Games PinkBlk_27: -2562200977085963662
+      NFTS Games PinkBlk_28: 9137476684884874725
+      NFTS Games PinkBlk_29: 6676247999710678092
+      NFTS Games PinkBlk_3: -33905926836829917
+      NFTS Games PinkBlk_30: 5511309027614670881
+      NFTS Games PinkBlk_31: 525854609650536768
+      NFTS Games PinkBlk_32: 442071398413428344
+      NFTS Games PinkBlk_33: 2186594007703584454
+      NFTS Games PinkBlk_34: 6292793591894686645
+      NFTS Games PinkBlk_35: 3188409456194506150
+      NFTS Games PinkBlk_36: 2248638832804445991
+      NFTS Games PinkBlk_37: -2081237218494903991
+      NFTS Games PinkBlk_38: -7918223137336734216
+      NFTS Games PinkBlk_39: 3916586769522711969
+      NFTS Games PinkBlk_4: -6958187296965996625
+      NFTS Games PinkBlk_40: -8150122389023396692
+      NFTS Games PinkBlk_41: 3231174457949155303
+      NFTS Games PinkBlk_42: 5469431453359552080
+      NFTS Games PinkBlk_43: 8685036878405124688
+      NFTS Games PinkBlk_44: 7905771156273982416
+      NFTS Games PinkBlk_45: -6565050048517876121
+      NFTS Games PinkBlk_46: -6572198155096238249
+      NFTS Games PinkBlk_47: -2580212069679932543
+      NFTS Games PinkBlk_48: -3225924218795533339
+      NFTS Games PinkBlk_49: -4710972694235940748
+      NFTS Games PinkBlk_5: 8029687570021365640
+      NFTS Games PinkBlk_50: -6730767831940043130
+      NFTS Games PinkBlk_51: -3647985252400375595
+      NFTS Games PinkBlk_52: 2515755839732716538
+      NFTS Games PinkBlk_53: -536462389515780196
+      NFTS Games PinkBlk_54: -3126843478369033873
+      NFTS Games PinkBlk_55: 1730660059654821842
+      NFTS Games PinkBlk_56: -8465346941227979844
+      NFTS Games PinkBlk_57: -3562514031058560220
+      NFTS Games PinkBlk_58: 4901639531466993854
+      NFTS Games PinkBlk_59: -3221310322544935520
+      NFTS Games PinkBlk_6: 2371978408980226327
+      NFTS Games PinkBlk_60: -3734001863185047608
+      NFTS Games PinkBlk_61: 643017471787200623
+      NFTS Games PinkBlk_62: -3939743843772617621
+      NFTS Games PinkBlk_63: -1354259677237735195
+      NFTS Games PinkBlk_7: -1149794853323814277
+      NFTS Games PinkBlk_8: -6962492006994598825
+      NFTS Games PinkBlk_9: 2954441837644802091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -78,8 +77,10 @@ public class ZombieSpawner : MonoBehaviour
                 //We want to make the occupied bool true for this location
                 availableLocationsList[locationIndex].occupiedLocations = true;
 
+                Vector3 newPosition = availableLocationsList[locationIndex].zombiePosition.position;
+                newPosition.z -= 1f;
 
-                newZombie.transform.position = availableLocationsList[locationIndex].zombiePosition.position;
+                newZombie.transform.position = newPosition;
 
                 newZombie.transform.localScale = availableLocationsList[locationIndex].zombieScale;
                 //Set the position of our new zombie to our location position

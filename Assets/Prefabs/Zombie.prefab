@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4015751415823385668}
   - component: {fileID: 4921403278612040231}
   - component: {fileID: 4434450223656456679}
+  - component: {fileID: 3544529872046442733}
   m_Layer: 0
   m_Name: Zombie
   m_TagString: Untagged
@@ -34,7 +35,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2791706605290175461}
+  - {fileID: 7653672866636267245}
+  - {fileID: 5057960341973603754}
   m_Father: {fileID: 7221232795317434905}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2732046227577189636
@@ -80,7 +82,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 4
   m_Sprite: {fileID: 21300000, guid: 5b25253c642a96644a33925437b87fc3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -126,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e130c214fd2271744b015528f718126a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  source: {fileID: 4193088413253030965}
+  source: {fileID: 6824637731641730100}
 --- !u!114 &4921403278612040231
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,6 +145,11 @@ MonoBehaviour:
   zombie: {fileID: 7202190985616077274}
   Spawning: 0
   spawnAtTime: 0
+  occupiedLocation: 0
+  damage: 1
+  minShootDelay: 1
+  maxShootDelay: 5
+  currentShootDelay: 0
 --- !u!61 &4434450223656456679
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -173,7 +180,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -189,7 +196,20 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 7.31, y: 11.3}
   m_EdgeRadius: 0
---- !u!1 &3515319158065899816
+--- !u!114 &3544529872046442733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2319972654169924716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e6611c562526348aae828e7da210ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zombieGrunt: {fileID: 1235581878252049012}
+--- !u!1 &2884770373896528124
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -197,22 +217,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2791706605290175461}
-  - component: {fileID: 4193088413253030965}
+  - component: {fileID: 5057960341973603754}
+  - component: {fileID: 1235581878252049012}
   m_Layer: 0
-  m_Name: ZombieGunshot
+  m_Name: ZombieGrunt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &2791706605290175461
+--- !u!4 &5057960341973603754
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3515319158065899816}
+  m_GameObject: {fileID: 2884770373896528124}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -221,20 +241,149 @@ Transform:
   m_Children: []
   m_Father: {fileID: 3055054100342184266}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!82 &4193088413253030965
+--- !u!82 &1235581878252049012
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3515319158065899816}
+  m_GameObject: {fileID: 2884770373896528124}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 7f2b0aacf5959ae49b0c0c4c4fe49ad7, type: 3}
+  m_Resource: {fileID: 8300000, guid: 7f2b0aacf5959ae49b0c0c4c4fe49ad7, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.897
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &5970314756067469294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7653672866636267245}
+  - component: {fileID: 6824637731641730100}
+  m_Layer: 0
+  m_Name: ZombieGunshot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7653672866636267245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5970314756067469294}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 29.948208, y: 3.4338892, z: 0}
+  m_LocalScale: {x: 3.7529082, y: 2.7692654, z: 3.7529082}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3055054100342184266}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &6824637731641730100
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5970314756067469294}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5f6d42e97fb5ca84094a0387eb55464c, type: 3}
   m_Resource: {fileID: 8300000, guid: 5f6d42e97fb5ca84094a0387eb55464c, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.106
   m_Pitch: 1
   Loop: 0
   Mute: 0
