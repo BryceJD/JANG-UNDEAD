@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CrossGraveStone_0: 4174348871142769366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
